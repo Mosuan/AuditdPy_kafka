@@ -5,7 +5,7 @@
 -----
 ##### 下载程序
 ```
-git clone https://github.com/Mosuan/auditdPy_Kafka && cd AuditdPy_Kafka
+git clone https://github.com/Mosuan/AuditdPy_kafka && cd AuditdPy_Kafka
 ```
 
 ##### 依赖库
